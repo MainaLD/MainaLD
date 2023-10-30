@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **MainaLD/MainaLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This GitHub contains the various projects I've completed during my training as an AI developer.</br>
+A relevant selection is presented below as well as in [my porfolio](https://mainald.github.io/).</br>
+</br>
+
+### Bonjour 👋
+Ce GitHub contient les différents projets réalisés durant ma formation de développeuse en IA.</br>
+Une sélection pertinente est présenté ci-dessous ainsi que dans [mon porfolio](https://mainald.github.io/).
+
+
