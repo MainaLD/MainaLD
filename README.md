@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm a passionate 'junior' developer who has just completed a retraining in artificial intelligence (AI).
-Because I'm passionate about technology and convinced that it's the evolution and future of computing. 
+I'm an artificial intelligence (AI) developer who has just completed a reconversion, because I'm passionate about technology and convinced that it's the evolution and future of computing. 
 I love learning and I'm always exploring new skills.
 
 This GitHub repository contains projects and practical work I've done during my training.
@@ -11,8 +10,7 @@ Join me on my journey of learning and exploring AI. Together, we could create an
 </br>
 
 ### Bonjour 👋
-Je suis une développeuse 'junior' passionnée qui vient de terminer une reconversion en intelligence artificielle (IA).
-Car je suis passionnée par la technologie et convaincue que c'est l'évolution et l'avenir de l'informatique. 
+Développeuse en intelligence artificielle (IA) qui vient de terminer une reconversion, car je suis passionnée par la technologie et convaincue que c'est l'évolution et l'avenir de l'informatique. 
 J'adore apprendre et je ne cesse d'explorer de nouvelles compétences.
 
 Ce dépôt GitHub contient des projets et des travaux pratiques que j'ai réalisés durant ma formation.
