@@ -7,7 +7,6 @@ I recommend you visit my [portfolio](https://mainald.github.io/).
 
 Join me on my journey of learning and exploring AI.
 
-Note: This GitHub is currently being restructured for better organisation. 
 Below is a selection of projects.</br>
 </br>
 
@@ -20,5 +19,4 @@ Je vous conseille  de visiter mon [portfolio](https://mainald.github.io/).
 
 Rejoignez-moi dans mon voyage d'apprentissage et d'exploration de l'IA.
 
-Nota : Ce GitHub est actuellement en cours de restructuration pour une meilleure organisation. 
 Ci-dessous une sélection de projets 
